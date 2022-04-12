@@ -34,5 +34,6 @@ yarn-error.log*
 # dist
 /dist
 
-# mp4
+# video
 *.mp4
+*.mov
